@@ -1,7 +1,7 @@
 
 # 🔍 ChatGPT Job Search & Application Workflow Guide
 
-**Purpose:** Use ChatGPT as a job-hunting assistant—from job discovery to resume tailoring and LinkedIn outreach. This guide provides a replicable template with reusable prompts for future student use.
+**Purpose:** Use ChatGPT as a job-hunting assistant—from job discovery to resume tailoring and LinkedIn outreach. This guide provides a replicable template with reusable prompts for future use.
 
 ---
 
@@ -30,19 +30,19 @@
 
 ### 🔧 Prompt:
 ```
-Scrape the [COMPANY NAME] careers page for the top 20 open roles related to [FIELD: e.g., data science, software engineering, HR]. Return the job titles, locations, and a 1-2 sentence summary of each.
+Scrape the [COMPANY NAME] careers page for the top 20 open roles related to [FIELD: e.g., data science, software engineering, HR]. Return the job titles, locations, links, and a 1-2 sentence summary of each.
 ```
 
 ### ✅ Example:
 ```
-Scrape the Boeing careers page for the top 20 open roles related to "Data Science." Return job titles, locations, and short descriptions.
+Scrape the Boeing Company careers page for the top 20 open roles related to "Data Science." Return job titles, locations, and short descriptions.
 ```
 
 ---
 
 ## 2️⃣ Pick Your Favorite Jobs
 
-> **User Action:** Review ChatGPT's response and select 1–3 jobs you're most interested in.
+> **User Action:** Review ChatGPT's response and select 5–10 jobs you're most interested in.
 
 ---
 
@@ -55,16 +55,16 @@ Here is a job description I’m interested in. Help me find the top 10 likely Li
 
 ---
 
-## 4️⃣ Select 1–3 Connections & Create Outreach Messages
+## 4️⃣ Select 5–10 Connections & Create Outreach Messages
 
 ### 🔧 Prompt:
 ```
-Here are 3 people I want to reach out to on LinkedIn for the following job. Write me a personalized connection message under 300 characters. Mention mutual interests or backgrounds if possible. Here's the job: [Paste JD]. And here’s a bit about me: [Paste 2–3 line bio].
+I based on these 5 people [Paste Contacts "About Me" section] (Or Export their Linkedin page to PDF and copy/paste in). I want to reach out to on LinkedIn for the following job. Write me a personalized connection message under 200 characters. Mention mutual interests or backgrounds if possible. Here's the job: [Paste JD]. And here’s a bit about me: [Paste 2–3 line bio]. [Send them a connection request and click "Add Personalized Note"]
 ```
 
-### 📄 Example Bio:
+### 📄 Example Connection Message:
 ```
-I'm a BI Engineer with experience in SQL, Python, and Tableau, currently working at Penn Entertainment. I previously worked at Charter Communications and hold a CS degree from SIUE.
+Hi [Contact name], I saw you we're the leader/HR for [Department Name] and I am super interested in [Job]! I myself am working on [A relative project to the role]. Would love to connect and see if we could discuss the role! Thank you
 ```
 
 ---
@@ -120,7 +120,7 @@ You can also ask ChatGPT to:
 
 3. **Connection Message**:
    ```
-   Write a 300-character message to reach out to a recruiter with 10 years at Nike and a CS background.
+   Write a 200-character message to reach out to a recruiter with 10 years at Nike and a CS background.
    ```
 
 4. **Tailor Resume**:
@@ -139,4 +139,4 @@ You can also ask ChatGPT to:
 
 **Document compiled by:** Alec Merle  
 **Purpose:** Educational demo of using ChatGPT as a job search assistant  
-**Use Case:** WashU Engineering Management class, Career Prep Unit
+**Use Case:** WashU SU2025.T55.ETEM.587.01 - Communication Excellence for Influential Leadership
